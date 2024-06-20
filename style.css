@@ -1,0 +1,17 @@
+body {
+    background-image: url('blue.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.main-heading {
+    margin-top: 50px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.links {
+    margin-top: 30px;
+}
+.link-btn {
+    margin: 5px;
+}
